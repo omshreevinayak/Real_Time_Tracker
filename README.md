@@ -1,10 +1,10 @@
-# 📍 RealTimeLocator
+# 📍 Real Time Tracker
 
 ![RealTimeLocator Thumbnail](public/images/thumbnail.jpg)
 
 ## ✨ Introduction
 
-**RealTimeLocator** is a real-time tracking application built with <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&border-radius=20px" alt="Node.js" /> , <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&border-radius=20px" alt="Express" /> , <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white&border-radius=20px" alt="Socket.io" /> , and <img src="https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white&border-radius=20px" alt="Leaflet.js" /> . This project demonstrates the ability to track multiple users' locations in real-time, display markers on a map, and provide live notifications for user connections and disconnections.
+**Real Time Tracker** is a real-time tracking application built with <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&border-radius=20px" alt="Node.js" /> , <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&border-radius=20px" alt="Express" /> , <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white&border-radius=20px" alt="Socket.io" /> , and <img src="https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white&border-radius=20px" alt="Leaflet.js" /> . This project demonstrates the ability to track multiple users' locations in real-time, display markers on a map, and provide live notifications for user connections and disconnections.
 
 ## 🚀 Features
 
