@@ -13,6 +13,9 @@
 - **Persistent User IDs:** Unique user IDs are maintained across sessions using local storage.
 - **Interactive Map:** View and interact with user markers on a map, with real-time updates.
 
+## 💯 Impact
+Improved user tracking accuracy and user engagement through real-time updates.
+
 ## 🛠️ Installation
 
 1. Clone the repository:
